@@ -14,7 +14,7 @@ I am broadly interested in Analysis, Geometry, and Topology. My master's thesis 
 
 {% include_relative _includes/news.md %}
 
-{% include_relative _includes/ongoing.md %}
-
 {% include_relative _includes/teaching.md %}
+
+
 
