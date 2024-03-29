@@ -10,7 +10,7 @@ I am currently a first year Ph.D. student in the Department of Mathematics at <a
 
 ## Research Interests
 
-I am broadly interested in Analysis, Geometry, and Topology. Specific areas I am interested in include Operator Algebras, Algebraic Topology, and K-Theory. 
+I am broadly interested in Analysis, Geometry, and Topology. My master's thesis was on topological K-Theory.
 
 {% include_relative _includes/news.md %}
 
