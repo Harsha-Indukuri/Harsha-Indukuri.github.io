@@ -4,7 +4,7 @@
 <ul>
 
  <li>
-    PMRF Teaching Assistant, <a href="https://onlinecourses.nptel.ac.in/noc23_ma22/preview">Fourier Analysis and Its Applications</a>, Spring 2024
+   NPTEL - PMRF Teaching Assistant, <a href="https://onlinecourses.nptel.ac.in/noc23_ma22/preview">Fourier Analysis and Its Applications</a>, Spring 2024
   </li>
   
 </ul>
