@@ -1,1 +1,10 @@
+<h1 id="teaching"></h1>
+
+<h2 style="margin: 60px 0px 10px;">Teaching</h2>
+<ul>
+
+ <li>
+    PMRF Teaching Assistant, <a href="[https://cms.sic.saarland/hlcvss22/](https://onlinecourses.nptel.ac.in/noc23_ma22/preview)">Fourier Analysis and Its Applications</a>, Spring 2024
+  </li>
+
 
