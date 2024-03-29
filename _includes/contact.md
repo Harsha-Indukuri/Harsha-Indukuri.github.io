@@ -2,6 +2,6 @@
 
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Personal Email:</strong> <email>harshaindukuri3 (at) outlook (dot) com</email>
+<p><strong>Alt Email:</strong> <email>harshaindukuri3 (at) outlook (dot) com</email>
 
 <br /></p>
