@@ -2,9 +2,12 @@
 layout: homepage
 ---
 
-## About Me
+<h1 id="about-me"></h1>
 
-I am currently a first year Ph.D. student in the Department of Mathematics at [IIT Bombay] (https://www.math.iitb.ac.in). I received my BS and MS degrees in mathematics at NISER Bhubaneswar, where my master's thesis advisor was Professor [Sutanu Roy] (http://www.niser.ac.in/~sutanu/).
+<h2 style="margin: 60px 0px 10px;">About Me</h2>
+
+I am currently a first year Ph.D. student in the Department of Mathematics at <a href ="https://www.math.iitb.ac.in">IIT Bombay</a>. I received my BS and MS degrees in mathematics at NISER Bhubaneswar, where my master's thesis advisor was <a href ="http://www.niser.ac.in/~sutanu/">Prof.Sutanu Roy</a> .
+
 ## Research Interests
 
 I am broadly interested in Analysis, Geometry, and Topology. Specific areas I am interested in include Operator Algebras, Algebraic Topology, and K-Theory. 
