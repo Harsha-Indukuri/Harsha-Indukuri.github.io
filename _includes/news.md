@@ -4,4 +4,4 @@
 <ul>
 
 <li><strong>March 2024</strong> Accepted into WashU's Math PhD program! </li>
-<li><strong>October 2023</strong>Awarded Prime Minister's Research Fellowship </li> 
+<li><strong>October 2023</strong> Awarded Prime Minister's Research Fellowship </li> 
