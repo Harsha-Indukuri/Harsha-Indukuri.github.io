@@ -13,11 +13,12 @@ I am currently a first year Ph.D. student in the Department of Mathematics at <a
 
 {% include_relative _includes/news.md %}
 
-{% include_relative _includes/teaching.md %}
-
 {% include_relative _includes/ongoing.md %}
 
+{% include_relative _includes/teaching.md %}
+
 {% include_relative _includes/contact.md %}
+
 
 
 
