@@ -1,6 +1,6 @@
 <h1 id="Academic History"></h1>
 
-<h2 style="margin: 60px 0px 10px;">News</h2>
+<h2 style="margin: 60px 0px 10px;">Academic History</h2>
 <ul>
   
 <li> Ph.D. student at <a href = "https://math.wustl.edu"> Dept. of Mathematics, WUSTl </a> <strong>[Aug 2024 - present]</strong></li>
