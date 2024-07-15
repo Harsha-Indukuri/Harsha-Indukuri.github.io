@@ -11,6 +11,8 @@ I am currently a first-year Ph.D. student in the Department of Mathematics at <a
 
 
 
+{% include_relative _includes/academic_history.md %}
+
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/Recent.md %}
