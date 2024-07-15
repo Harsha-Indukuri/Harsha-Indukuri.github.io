@@ -3,7 +3,7 @@ title: Sai Sriharsha Indukuri
 position: Ph.D. Student
 affiliation: Dept. of Mathematics, Washington University in St.Louis
 affiliation_link: https://math.wustl.edu
-affiliation_logo: ./assets/img/iitb_logo.png
+affiliation_logo: ./assets/img/washu_seal.png
 email: i.saisriharsha@wustl.edu
 
 # Search Engine Optimization (SEO)
@@ -21,8 +21,8 @@ github_link: https://github.com/harsha-indukuri
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/pluto+me.png
-favicon: ./assets/img/iitb_logo.png
-favicon_dark: ./assets/img/iitb_logo.png
+favicon: ./assets/img/washu_seal.png
+favicon_dark: ./assets/img/washu_seal.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
