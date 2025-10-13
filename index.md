@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">About Me</h2>
 
-I am currently a second-year Ph.D. student in the Department of Mathematics at <a href ="https://math.wustl.edu"> Washington University in St.Louis</a> under the supervision of professors <a href="https://www.math.wustl.edu/~xtang/">Xiang Tang</a> and <a href="https://www.math.wustl.edu/~ylsong/">Yanli Song</a>. I graduated with a BS + MS degree in mathematics from <a href="https://www.niser.ac.in/sms/">School of Mathematics, NISER</a> in 2023.
+I am currently a second-year Ph.D. student in the Department of Mathematics at <a href ="https://math.wustl.edu"> Washington University in St.Louis</a> under the supervision of professors <a href="https://www.math.wustl.edu/~xtang/">Xiang Tang</a> and <a href="https://www.math.wustl.edu/~ylsong/">Yanli Song</a>. I graduated with a BS + MS degree in mathematics from <a href="https://www.niser.ac.in/sms/">NISER, SMS</a> in 2023.
 
 
 
