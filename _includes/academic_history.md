@@ -5,6 +5,6 @@
   
 <li> <a href = "https://math.wustl.edu">Department of Mathematics, WashU </a>: Ph.D. student  <strong>[Aug 2024 - present]</strong></li>
 <li> <a href = "https://www.math.iitb.ac.in"> Department of Mathematics, IIT Bombay </a>: Research Fellow (supported by <a href = "https://www.pmrf.in">PMRF</a>) <strong>[Aug 2023 - Jun 2024]</strong> </li>
-<li> <a href = "https://oldsite.niser.ac.in/sms/">School of Mathematical Sciences, NISER</a>: BS + MS. <strong> [Aug 2018 - May 2023] </strong></li>
+<li> <a href = "https://oldsite.niser.ac.in/sms/">School of Mathematical Sciences, NISER</a>: Bachelor's + Master's <strong> [Aug 2018 - May 2023] </strong></li>
 
 </ul>
