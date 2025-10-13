@@ -4,10 +4,10 @@
 <ul>
 
  <li>
-  Assistant to Instructor (AI), Calc III - WashU
+  Assistant to Instructor (AI), Calc III - WashU (Fall 2025)
  </li>
  <li>
-   NPTEL - PMRF Teaching Assistant, <a href="https://onlinecourses.nptel.ac.in/noc23_ma22/preview">Fourier Analysis and Its Applications</a>, Spring 2024
+   NPTEL - PMRF Teaching Assistant, <a href="https://onlinecourses.nptel.ac.in/noc23_ma22/preview">Fourier Analysis and Its Applications</a> (Spring 2024)
   </li>
   
 </ul>
