@@ -4,7 +4,7 @@
 <ul>
 
  <li>
-  Math 2130 (WashU Calc III); Assistant to Instructor (AI) (Fall 2025)
+  Math 2130 (Calculus III - WashU); Assistant to Instructor (AI) (Fall 2025)
  </li>
  <li>
    <a href="https://onlinecourses.nptel.ac.in/noc23_ma22/preview">Fourier Analysis and Its Applications</a> NPTEL - PMRF Teaching Assistant (Spring 2024)
