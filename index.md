@@ -13,8 +13,6 @@ I am currently a second-year Ph.D. student in the Department of Mathematics at <
 
 {% include_relative _includes/academic_history.md %}
 
-{% include_relative _includes/news.md %}
-
 {% include_relative _includes/Recent.md %}
 
 {% include_relative _includes/teaching.md %}
