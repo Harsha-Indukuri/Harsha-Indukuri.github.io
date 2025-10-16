@@ -4,7 +4,7 @@
 <ul>
 
  <li>
-  Math 2130 (Calculus III - WashU); Assistant to Instructor (AI) (Fall 2025)
+  <a href = "http://www.dehn.wustl.edu/~blake/m2130/">Math 2130</a> (Calculus III - WashU); Assistant to Instructor (AI) (Fall 2025)
  </li>
  <li>
    <a href="https://onlinecourses.nptel.ac.in/noc23_ma22/preview">Fourier Analysis and Its Applications</a> NPTEL - PMRF Teaching Assistant (Spring 2024)
