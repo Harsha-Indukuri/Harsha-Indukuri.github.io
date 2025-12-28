@@ -3,7 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">Teaching</h2>
 <ul>
  <li>
-  Math 1520 (Calculus II - WashU); Assistant to Instructor (AI) Spring 2026
+  Math 1520 (Calculus II - WashU); Assistant to Instructor (AI) (Spring 2026)
  <\li>
  <li>
   <a href = "http://www.dehn.wustl.edu/~blake/m2130/">Math 2130</a> (Calculus III - WashU); Assistant to Instructor (AI) (Fall 2025)
