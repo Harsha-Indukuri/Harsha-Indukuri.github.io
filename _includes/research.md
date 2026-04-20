@@ -1,8 +1,7 @@
 <h1 id="ongoing work"></h1>
 
 <h2 style="margin: 60px 0px 10px;">Research</h2>
-As an undergrad, two courses that really shaped my mathematical interests were introductory courses on Algebraic Topology and Operator Algebras. As a next step I decided to write a master's thesis surveying topological K-theory, where I was introduced to some basic (Fredholm) index theory (via the "Atiyah-Janich" Theorem). 
-As a graduate student, I am part of the Non-commutative Geometry group at WashU.
+My research interests lie broadly in the areas of Operator Algberas and Differential Geometry. I am part of the Non-commutative geometry group at WashU.
 
 Here's a list of my papers/preprints:
 <ul>
