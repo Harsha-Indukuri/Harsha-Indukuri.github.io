@@ -1,7 +1,7 @@
 <h1 id="ongoing work"></h1>
 
 <h2 style="margin: 60px 0px 10px;">Research</h2>
-My research interests lie broadly in the areas of Operator Algberas and Differential Geometry. I am part of the Non-commutative geometry group at WashU.
+My research interests lie broadly in the areas of Operator Algberas and Differential Geometry. More recently, I've also been thinking about eigenvalues of the Laplace-Beltrami operator and their asymptotic growth rate. 
 
 Here's a list of my papers/preprints:
 <ul>
