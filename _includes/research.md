@@ -1,7 +1,7 @@
 <h1 id="ongoing work"></h1>
 
 <h2 style="margin: 60px 0px 10px;">Research</h2>
-My research interests lie broadly in the areas of Operator Algberas and Differential Geometry. More recently, I've also been thinking about eigenvalues of the Laplace-Beltrami operator and their asymptotic growth rate. 
+My research interests primarily lie in the field of Noncommutative Geometry. My main tools are C*-algebraic K-theory, K-homology, and Kasparov's KK-theory. 
 
 Here's a list of my papers/preprints:
 <ul>
